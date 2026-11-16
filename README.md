@@ -4,6 +4,10 @@ I am an interdisciplinary empirical researcher studying how constrained sociotec
 
 My work combines psychology and law with reproducible text analysis, structured human evaluation, blinded coding, reliability analysis, and privacy-aware research technology.
 
+I am an Institute for Social Innovation Fellow at Fielding Graduate University.
+
+[Research: Agency-Space Theory and Scholarly Invitations](https://www.tdawsonwoodrum.com/research.html)
+
 ## Current Research and Technical Focus
 
 - Human evaluation, annotation rubrics, adjudication, and inter-rater reliability
